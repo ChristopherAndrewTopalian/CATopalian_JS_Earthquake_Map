@@ -14,6 +14,8 @@ We can click on any Earthquake and it will open the Google map location precisel
 
 ![screenshot_006](src/media/textures/screenshots/006.webp)
 
+Use App: https://christopherandrewtopalian.github.io/CATopalian_JS_Earthquake_Map/CATopalian_JS_Earthquake_Map.html
+
 Video: https://www.youtube.com/watch?v=Du3L8F7fon0
 
 ---
