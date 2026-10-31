@@ -1,5 +1,5 @@
 # CATopalian JS Earthquake Map
-A JavaScript  application that tracks Earthquakes worldwide!
+A JavaScript application that tracks Earthquakes worldwide!
 We can click on any Earthquake and it will open the Google map location precisely!
 
 ![screenshot_001](src/media/textures/screenshots/001.webp)
@@ -13,6 +13,8 @@ We can click on any Earthquake and it will open the Google map location precisel
 ![screenshot_005](src/media/textures/screenshots/005.webp)
 
 ![screenshot_006](src/media/textures/screenshots/006.webp)
+
+Video: https://www.youtube.com/watch?v=Du3L8F7fon0
 
 ---
 
